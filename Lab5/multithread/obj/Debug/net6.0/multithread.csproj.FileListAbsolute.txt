@@ -1,0 +1,15 @@
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/multithread.csproj.AssemblyReference.cache
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/multithread.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/multithread.AssemblyInfoInputs.cache
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/multithread.AssemblyInfo.cs
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/multithread.csproj.CoreCompileInputs.cache
+/home/sabina/Documents/NCC_lab/Lab5/multithread/bin/Debug/net6.0/multithread
+/home/sabina/Documents/NCC_lab/Lab5/multithread/bin/Debug/net6.0/multithread.deps.json
+/home/sabina/Documents/NCC_lab/Lab5/multithread/bin/Debug/net6.0/multithread.runtimeconfig.json
+/home/sabina/Documents/NCC_lab/Lab5/multithread/bin/Debug/net6.0/multithread.dll
+/home/sabina/Documents/NCC_lab/Lab5/multithread/bin/Debug/net6.0/multithread.pdb
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/multithread.dll
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/refint/multithread.dll
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/multithread.pdb
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/multithread.genruntimeconfig.cache
+/home/sabina/Documents/NCC_lab/Lab5/multithread/obj/Debug/net6.0/ref/multithread.dll

@@ -19,5 +19,4 @@ namespace Delegates
         }
     }
 }
-Footer
-©
+

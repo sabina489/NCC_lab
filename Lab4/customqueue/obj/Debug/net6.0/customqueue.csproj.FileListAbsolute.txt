@@ -1,0 +1,15 @@
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/customqueue.csproj.AssemblyReference.cache
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/customqueue.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/customqueue.AssemblyInfoInputs.cache
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/customqueue.AssemblyInfo.cs
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/customqueue.csproj.CoreCompileInputs.cache
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/bin/Debug/net6.0/customqueue
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/bin/Debug/net6.0/customqueue.deps.json
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/bin/Debug/net6.0/customqueue.runtimeconfig.json
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/bin/Debug/net6.0/customqueue.dll
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/bin/Debug/net6.0/customqueue.pdb
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/customqueue.dll
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/refint/customqueue.dll
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/customqueue.pdb
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/customqueue.genruntimeconfig.cache
+/home/sabina/Documents/NCC_lab/Lab4/customqueue/obj/Debug/net6.0/ref/customqueue.dll
