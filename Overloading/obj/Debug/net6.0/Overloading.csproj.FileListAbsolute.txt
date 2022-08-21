@@ -1,0 +1,15 @@
+/home/sabina/Documents/NCC_lab/Overloading/bin/Debug/net6.0/Overloading
+/home/sabina/Documents/NCC_lab/Overloading/bin/Debug/net6.0/Overloading.deps.json
+/home/sabina/Documents/NCC_lab/Overloading/bin/Debug/net6.0/Overloading.runtimeconfig.json
+/home/sabina/Documents/NCC_lab/Overloading/bin/Debug/net6.0/Overloading.dll
+/home/sabina/Documents/NCC_lab/Overloading/bin/Debug/net6.0/Overloading.pdb
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/Overloading.csproj.AssemblyReference.cache
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/Overloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/Overloading.AssemblyInfoInputs.cache
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/Overloading.AssemblyInfo.cs
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/Overloading.csproj.CoreCompileInputs.cache
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/Overloading.dll
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/refint/Overloading.dll
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/Overloading.pdb
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/Overloading.genruntimeconfig.cache
+/home/sabina/Documents/NCC_lab/Overloading/obj/Debug/net6.0/ref/Overloading.dll

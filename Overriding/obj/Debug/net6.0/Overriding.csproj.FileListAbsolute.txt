@@ -1,0 +1,15 @@
+/home/sabina/Documents/NCC_lab/Overriding/bin/Debug/net6.0/Overriding
+/home/sabina/Documents/NCC_lab/Overriding/bin/Debug/net6.0/Overriding.deps.json
+/home/sabina/Documents/NCC_lab/Overriding/bin/Debug/net6.0/Overriding.runtimeconfig.json
+/home/sabina/Documents/NCC_lab/Overriding/bin/Debug/net6.0/Overriding.dll
+/home/sabina/Documents/NCC_lab/Overriding/bin/Debug/net6.0/Overriding.pdb
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/Overriding.csproj.AssemblyReference.cache
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/Overriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/Overriding.AssemblyInfoInputs.cache
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/Overriding.AssemblyInfo.cs
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/Overriding.csproj.CoreCompileInputs.cache
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/Overriding.dll
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/refint/Overriding.dll
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/Overriding.pdb
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/Overriding.genruntimeconfig.cache
+/home/sabina/Documents/NCC_lab/Overriding/obj/Debug/net6.0/ref/Overriding.dll

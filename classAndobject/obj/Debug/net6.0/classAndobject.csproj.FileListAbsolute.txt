@@ -1,0 +1,15 @@
+/home/sabina/Documents/NCC_lab/classAndobject/bin/Debug/net6.0/classAndobject
+/home/sabina/Documents/NCC_lab/classAndobject/bin/Debug/net6.0/classAndobject.deps.json
+/home/sabina/Documents/NCC_lab/classAndobject/bin/Debug/net6.0/classAndobject.runtimeconfig.json
+/home/sabina/Documents/NCC_lab/classAndobject/bin/Debug/net6.0/classAndobject.dll
+/home/sabina/Documents/NCC_lab/classAndobject/bin/Debug/net6.0/classAndobject.pdb
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/classAndobject.csproj.AssemblyReference.cache
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/classAndobject.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/classAndobject.AssemblyInfoInputs.cache
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/classAndobject.AssemblyInfo.cs
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/classAndobject.csproj.CoreCompileInputs.cache
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/classAndobject.dll
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/refint/classAndobject.dll
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/classAndobject.pdb
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/classAndobject.genruntimeconfig.cache
+/home/sabina/Documents/NCC_lab/classAndobject/obj/Debug/net6.0/ref/classAndobject.dll
