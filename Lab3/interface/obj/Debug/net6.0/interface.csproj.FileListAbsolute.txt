@@ -1,0 +1,15 @@
+/home/sabina/Documents/NCC_lab/Lab3/interface/bin/Debug/net6.0/interface
+/home/sabina/Documents/NCC_lab/Lab3/interface/bin/Debug/net6.0/interface.deps.json
+/home/sabina/Documents/NCC_lab/Lab3/interface/bin/Debug/net6.0/interface.runtimeconfig.json
+/home/sabina/Documents/NCC_lab/Lab3/interface/bin/Debug/net6.0/interface.dll
+/home/sabina/Documents/NCC_lab/Lab3/interface/bin/Debug/net6.0/interface.pdb
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/interface.csproj.AssemblyReference.cache
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/interface.AssemblyInfoInputs.cache
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/interface.AssemblyInfo.cs
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/interface.csproj.CoreCompileInputs.cache
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/interface.dll
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/refint/interface.dll
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/interface.pdb
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/interface.genruntimeconfig.cache
+/home/sabina/Documents/NCC_lab/Lab3/interface/obj/Debug/net6.0/ref/interface.dll

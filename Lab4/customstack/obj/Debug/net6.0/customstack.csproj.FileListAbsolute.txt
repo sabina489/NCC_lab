@@ -1,0 +1,15 @@
+/home/sabina/Documents/NCC_lab/Lab4/customstack/bin/Debug/net6.0/customstack
+/home/sabina/Documents/NCC_lab/Lab4/customstack/bin/Debug/net6.0/customstack.deps.json
+/home/sabina/Documents/NCC_lab/Lab4/customstack/bin/Debug/net6.0/customstack.runtimeconfig.json
+/home/sabina/Documents/NCC_lab/Lab4/customstack/bin/Debug/net6.0/customstack.dll
+/home/sabina/Documents/NCC_lab/Lab4/customstack/bin/Debug/net6.0/customstack.pdb
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/customstack.csproj.AssemblyReference.cache
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/customstack.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/customstack.AssemblyInfoInputs.cache
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/customstack.AssemblyInfo.cs
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/customstack.csproj.CoreCompileInputs.cache
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/customstack.dll
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/refint/customstack.dll
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/customstack.pdb
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/customstack.genruntimeconfig.cache
+/home/sabina/Documents/NCC_lab/Lab4/customstack/obj/Debug/net6.0/ref/customstack.dll

@@ -1,0 +1,5 @@
+/home/sabina/Documents/NCC_lab/Lab3/delegates/obj/Debug/net6.0/delegates.csproj.AssemblyReference.cache
+/home/sabina/Documents/NCC_lab/Lab3/delegates/obj/Debug/net6.0/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabina/Documents/NCC_lab/Lab3/delegates/obj/Debug/net6.0/delegates.AssemblyInfoInputs.cache
+/home/sabina/Documents/NCC_lab/Lab3/delegates/obj/Debug/net6.0/delegates.AssemblyInfo.cs
+/home/sabina/Documents/NCC_lab/Lab3/delegates/obj/Debug/net6.0/delegates.csproj.CoreCompileInputs.cache
